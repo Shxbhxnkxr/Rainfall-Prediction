@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rainfall Prediction App
 
 This project is a rainfall prediction app developed using an Australian dataset. The app aims to predict rainfall based on various meteorological features.
@@ -84,3 +85,6 @@ To use the rainfall prediction app, follow these steps:
 - Dataset [link](https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data)
 
 ---
+=======
+# Rainfall-Prediction
+>>>>>>> 2a2b09ef022095d3387ef0b970f4d0e2d765076e
